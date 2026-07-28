@@ -142,11 +142,11 @@ PTA:
   repos:
     - name: Ascend/pytorch
       url: "https://gitcode.com/Ascend/pytorch.git"
-      branch: v2.7.1
+      branch: master
       component: PTA
     - name: Ascend/op-plugin
       url: "https://gitcode.com/Ascend/op-plugin.git"
-      branch: v2.7.1
+      branch: master
       component: PTA
     - name: Ascend/torchair
       url: "https://gitcode.com/Ascend/torchair.git"
